@@ -7,4 +7,4 @@ All notable changes to this project will be documented in this file.
 
 ## July 2026
 -  Documented the Palworld dedicated-server home-lab project and ongoing operational improvements
--  Added an incident report covering the July 29, 2026 client–server version mismatch
+-  Added a report covering the July 29, 2026 client–server version mismatch incident
