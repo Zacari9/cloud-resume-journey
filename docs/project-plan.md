@@ -9,8 +9,8 @@ I am developing the initial structure and long-term plan for this project while 
 2. Create the infrastructure and software needed to host, secure, monitor, and maintain the project.
 3. Deploy, test, document, and refine the final product.
 ## Guiding Principles
-Gradually apply new concepts as they are learned
-Understand each part of the project as it is implemented
-Document progress, mistakes, and the troubleshooting process
-Prioritize and refine practical technical skills for a career in IT
-Use AI in a transparent and responsible manner
+- Gradually apply new concepts as they are learned
+- Understand each part of the project as it is implemented
+- Document progress, mistakes, and the troubleshooting process
+- Prioritize and refine practical technical skills for a career in IT
+- Use AI in a transparent and responsible manner
