@@ -39,7 +39,6 @@ The new cache pool existed, but the `system` and `appdata` shares were missing. 
 
 **What I learned:** Bringing up the storage device is only part of the setup. Services also depend on the expected paths, shares, and persistent application data.
 
-The cache pool was a single-device Btrfs pool. It did not provide redundancy for the application data stored there.
 
 ## 2. Building Shared Storage and Client Backups
 
@@ -64,7 +63,6 @@ Troubleshooting included node placement, roaming behavior, power settings, and t
 
 **What I learned:** Storage performance depends on the entire path between the client and the disks. A slow or interrupted copy does not, by itself, identify a drive problem.
 
-I did not record controlled before-and-after throughput measurements, so this is a qualitative result rather than a benchmark.
 
 ## 4. Checking Drive Health and Planning Expansion
 
@@ -99,11 +97,7 @@ Practical skills included:
 ## Next Steps
 
 - Record parity synchronization/check results for the current three-drive array.
-- Record completed extended SMART results.
 - Test recovery of representative files from both backup workflows, then document broader recovery testing.
-- Document a separate backup for important NAS files and container application data.
-- Capture sanitized screenshots of storage, share settings, and backup results.
-- Measure transfer performance under repeatable conditions.
 
 ## Related Project
 
