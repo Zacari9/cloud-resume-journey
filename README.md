@@ -7,6 +7,11 @@ A long-term cloud infrastructure portfolio documenting my education, projects, a
 - Document my learning journey
 - Apply academic concepts to a real-world use case
 
+## Projects
+
+- [Home NAS: From ZimaOS to Unraid](docs/projects/nas-journey.md) — Storage migration, Windows and macOS backups, troubleshooting, and a three-drive array with 8 TB of nominal data capacity plus dedicated parity.
+- [Dedicated Palworld Server](docs/projects/palworld-server.md) — Docker-based game hosting and service management.
+
 ## Use of AI and LLMs
 This project was built in collaboration with ChatGPT.
 ### How AI Was Used
